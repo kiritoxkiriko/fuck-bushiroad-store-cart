@@ -13,8 +13,9 @@
 ## 安装
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/)（或其他用户脚本管理器）。
-2. 新建脚本并将内容替换为 [`fuck-bushiroad-store-cart.user.js`](./fuck-bushiroad-store-cart.user.js)。
-3. 保存后访问匹配页面：
+2. 点击此链接直接安装：[`安装脚本`](https://raw.githubusercontent.com/kiritoxkiriko/fuck-bushiroad-store-cart/main/fuck-bushiroad-store-cart.user.js)。
+3. 或者新建脚本并将内容替换为 [`fuck-bushiroad-store-cart.user.js`](./fuck-bushiroad-store-cart.user.js)。
+4. 保存后访问匹配页面：
    - `https://bushiroad-store.com/collections/*`
 
 ## 开发
