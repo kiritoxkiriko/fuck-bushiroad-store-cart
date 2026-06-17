@@ -2,7 +2,7 @@
 // @name         bushiroad-store-force-cart-button
 // @namespace    https://tampermonkey.net/
 // @version      1.7
-// @description  bushiroad-store 在 product-form__info-list 后强制插入加入购物车按钮
+// @description  bushiroad-store 强制插入加入购物车按钮
 // @author       kiritoxkiriko
 // @match        https://bushiroad-store.com/collections/*
 // @match        https://bushiroad-store.com/collections/*/products/*
