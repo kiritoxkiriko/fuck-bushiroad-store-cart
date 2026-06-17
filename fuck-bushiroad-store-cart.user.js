@@ -15,7 +15,7 @@
     'use strict';
 
     const FORCE_BUTTON_CLASS = 'force-reserve-cart-button';
-    const FORCE_BUTTON_TEXT = '予約注文（强制）';
+    const FORCE_BUTTON_TEXT = 'カート強制追加';
 
     function createButton() {
         const wrapper = document.createElement('div');
